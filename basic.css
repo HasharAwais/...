@@ -1,0 +1,25 @@
+p
+{
+  color:blue;
+  font-family: Verdana, sans-serif, Arial;
+  white-space: pre-line;
+}
+
+h1
+{
+  font-family: Verdana, sans-serif, Arial;
+  color: DarkGrey;
+}
+
+li
+{
+  font-family: Verdana, sans-serif, Arial;
+  color:blue;
+}
+
+ul
+{
+  list-style-position: inside;
+  text-align:center;
+
+}
